@@ -43,7 +43,8 @@ Enter url: https://saycure.io
 Enter url: localhost
 ```
 ***Add screenshots***
- &&
+
+&&
 
 ```
 Enter url: 127.0.0.1
