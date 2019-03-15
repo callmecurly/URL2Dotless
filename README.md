@@ -35,12 +35,14 @@ python url2dotless.py
 Enter url: https://saycure.io
 
 ```
+***Add screenshots***
 
 - For localhosts
 
 ```
 Enter url: localhost
 ```
+***Add screenshots***
  &&
 
 ```
