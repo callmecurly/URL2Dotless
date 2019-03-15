@@ -2,7 +2,7 @@
 
 URL2Dotless is a simple tool developed in python3 to let users convert 
 any requested valid URL into dotless IP. This tool can be used to 
-bypass restricted URLs.
+bypass restricted URLs. Calculation Supports IPv4 only.
 
 ## Recommended Python Version:
 
@@ -54,11 +54,11 @@ Enter url: 127.0.0.1
 
 ## Version
 
-Current version is 0.3b
+Current version is 0.4a
 
 ## Updates from previous version
-
-- Added Banners
-- Added dotless for localhost and 127.0.0.1
-- Removed errors when user inputs https:// or http:// on the inputs
-
+- Added Bash Support
+- Updated Handler
+- Added Additional Headers
+- Edited minor formatting errors
+- Made few changes in the structure
